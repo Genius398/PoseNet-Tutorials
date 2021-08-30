@@ -50,3 +50,7 @@ section #lesson-text2{
     height:75px;
     width:125px;
 }
+
+.textToMargin{
+    margin-left: 10px;
+}
